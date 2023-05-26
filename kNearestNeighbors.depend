@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685058557 source:c:\users\linkley\desktop\knearestneighbors\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cmath>
+	<algorithm>
+
